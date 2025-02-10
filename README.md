@@ -1,4 +1,4 @@
-# 1.L Bot
+# 1.L Bot Beta v.1
 **A way to make your server full with fun!**
 ## How to use it?
 > Get a bot token at [here](https://discord.com/developers/applications) by creating a new application and going to **Bot** tab.
